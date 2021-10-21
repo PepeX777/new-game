@@ -1,0 +1,21 @@
+ruszanie sie na wsad
+
+gra 2d widok z boku
+
+3 mozliwe sytuacje: nic, skarb lub wrog
+
+walka odrazu po spotkaniu wroga
+
+mozliwe podnoszenie itemow
+
+mozliwa ucieczka od wroga
+
+mozliwy custom postaci
+
+*logowanie
+
+*pay2win
+
+potki
+
+ekwipunek
